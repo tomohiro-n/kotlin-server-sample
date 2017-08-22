@@ -1,0 +1,19 @@
+build/
+captures/
+
+# Gradle generated files
+.gradle/
+
+# User-specific configurations
+*.iml
+.idea/*.xml
+.idea/*/*.xml
+.idea/libraries/
+.idea/dictionaries/
+
+# Exceptions
+!.idea/gradle.xml
+!.idea/codeStyleSettings.xml
+
+# OS-specific files
+.DS_Store
